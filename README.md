@@ -35,6 +35,8 @@ mid. Won't even link it here...
 | Pyrene                 |            | Inscryption, but only the cards + survival |
 | Enotria: The Last Song | Sep. 19.   | Cool looking soulslike                     |
 
+Okay, I got bored, that's it. Here's my favorite from this showcase:
+
 #### Screenbound
 
 OMG I WAS LOOKING FORWARD TO THIS!
