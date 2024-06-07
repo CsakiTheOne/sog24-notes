@@ -45,6 +45,8 @@ It will have a level editor, literally how...
 
 ## Summer Game Fest - June 7. 11pm
 
+[Here](./SGF.md)
+
 ## Day of the Devs - June 8. after SGF
 
 ## Devolver Direct - June 8. after SGF
