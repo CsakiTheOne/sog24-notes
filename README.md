@@ -45,11 +45,12 @@ It will have a level editor, literally how...
 
 ## Summer Game Fest - June 7. 11pm
 
-[Here](./SGF.md)
+Also in this show:
 
-## Day of the Devs - June 8. after SGF
+- Day of the Devs
+- Devolver Direct
 
-## Devolver Direct - June 8. after SGF
+[Notes Here](./SGF.md)
 
 ## Wholesome Direct - June 8. 6pm
 

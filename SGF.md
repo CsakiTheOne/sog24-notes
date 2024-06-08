@@ -8,12 +8,6 @@ YEEEESS! NEW HUB! CHAO MISSIONS! YES YES YES!
 
 October 25th
 
-### Light No Fire
-
-### No Man's Sky
-
-### Helldivers 2
-
 ### Quidditch Champions
 
 September 3rd, all platforms
@@ -30,9 +24,11 @@ Comes this summer too!
 
 ### Wanderstop
 
-Wholesome...? Something is off...
+Wholesome...? Something is off... Comes this year to PC and PS
 
-Comes this year to PC and PS
+### Cult of the Lamb: Unholy Allience
+
+LOCAL CO-OP WOHOO! Comes on 12th of August
 
 ### Other interesting games
 
