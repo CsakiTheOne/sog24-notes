@@ -33,9 +33,9 @@ LOCAL CO-OP WOHOO! Comes on 12th of August
 ### Other interesting games
 
 - LEGO Horizon Adventures (2024, all platforms)
-- No More Room in Hell (Halloween, PC)
+- No More Room in Hell 2 (Halloween, PC)
 - Neva (this is art, 2024)
-- Black Myth Wuking
+- Black Myth Wukong
 - new Warhammer Space Marine game
 - Tears of Metal
 - Kingdom Come Deliverance 2 (it has sex and shit humor)
