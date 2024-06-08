@@ -43,25 +43,14 @@ OMG I WAS LOOKING FORWARD TO THIS!
 
 It will have a level editor, literally how...
 
-## Summer Game Fest - June 7. 11pm
+## Summer Game Fest
 
-Also in this show:
 
-- Day of the Devs
-- Devolver Direct
 
-[Notes Here](./SGF.md)
-
-## Wholesome Direct - June 8. 6pm
-
-## Future Games Show - June 8. 9pm
-
-## Xbox Games Showcase - June 9. 6pm
-
-## PC Gameing Show - June 9. 10pm
-
-## Ubisoft Forward - June 10.
-
-## Nintendo Direct - J&43?
-
-No Switch 2 news in this one.
+- [SGF opening, Day of the Devs, Devolver Direct](./SGF.md)
+- [Wholesome Direct](./wholesome.md)
+- [Future Games Show](./future.md)
+- [Xbox Games Showcase - June 9. 6pm](./)
+- [PC Gameing Show - June 9. 10pm](./)
+- [Ubisoft Forward - June 10.](./)
+- [Nintendo Direct - J&43?](./)
