@@ -1,4 +1,4 @@
 # Future Games Show
 
 - First Dwarf
-- Anton Blast (comes in November)
+- Anton Blast (November 12th)
