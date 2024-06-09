@@ -49,8 +49,15 @@ It will have a level editor, literally how...
 
 - [SGF opening, Day of the Devs, Devolver Direct](./SGF.md)
 - [Wholesome Direct](./wholesome.md)
-- [Future Games Show](./future.md)
-- [Xbox Games Showcase - June 9. 6pm](./)
-- [PC Gameing Show - June 9. 10pm](./)
+- Future Games Show
+  - First Dwarf
+  - Anton Blast (November 12th)
+- Xbox Games Showcase
+  - Perfect Dark
+  - Fable
+  - Fragpunk (a hero shooter with a cool idea?)
+  - Indiana Jones and the Great Circle (2024)
+- PC Gameing Show
+  - Star Birds
 - [Ubisoft Forward - June 10.](./)
 - [Nintendo Direct - J&43?](./)
