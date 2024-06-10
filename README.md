@@ -45,8 +45,6 @@ It will have a level editor, literally how...
 
 ## Summer Game Fest
 
-
-
 - [SGF opening, Day of the Devs, Devolver Direct](./SGF.md)
 - [Wholesome Direct](./wholesome.md)
 - Future Games Show
